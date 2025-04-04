@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Level 3 - Admin Approval</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h2>Level 3 - Admin Approval</h2>
+  <p>Admin: Approve or Deny Access</p>
+  <form method="POST">
+    <button type="submit" name="approval" value="yes">Approve</button>
+    <button type="submit" name="approval" value="no">Deny</button>
+  </form>
+</body>
+</html>
