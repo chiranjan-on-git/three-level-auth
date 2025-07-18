@@ -37,6 +37,7 @@ For demonstration purposes, the following user is pre-configured:
 ## Project Structure
 
 For the application to run correctly, you will need the following files:
+
 <img width="297" height="309" alt="image" src="https://github.com/user-attachments/assets/f4cfb7fe-96b1-48aa-b5a2-81a8532166db" width = 400 />
 
 ## Generated code
