@@ -10,6 +10,13 @@ This project demonstrates a basic multi-stage authentication system built with F
 
 This Flask application simulates a layered security system where a user progresses through sequential authentication steps. It's designed as a simple demonstration of session management and multi-factor authentication concepts in a web environment.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a38fd881-cdbc-4906-9ac5-f03c88763a62" width="200" style="margin-right: 10px;" alt="Screenshot 1"/>
+  <img src="https://github.com/user-attachments/assets/c565f846-310a-469b-b42d-8ae020a13c09" width="200" style="margin-right: 10px;" alt="Screenshot 2"/>
+  <img src="https://github.com/user-attachments/assets/a5e26de0-9af5-40e4-b5a6-e8d862d7735d" width="200" style="margin-right: 10px;" alt="Screenshot 3"/>
+  <img src="https://github.com/user-attachments/assets/69d76936-617f-492f-86a3-5bbbc0316395" width="200" alt="Screenshot 4"/>
+</p>
+
 ## Features
 
 *   **Level 1: Username and Password Login:** Standard initial authentication.
