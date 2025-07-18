@@ -1,4 +1,3 @@
-Generated markdown
 # 3-Level Authentication System (Flask)
 
 This project demonstrates a basic multi-stage authentication system built with Flask. Users must successfully navigate through three distinct authentication levels to gain access to a final "success" page.
@@ -38,9 +37,9 @@ For demonstration purposes, the following user is pre-configured:
 ## Project Structure
 
 For the application to run correctly, you will need the following files:
+<img width="297" height="309" alt="image" src="https://github.com/user-attachments/assets/f4cfb7fe-96b1-48aa-b5a2-81a8532166db" width = 400 />
 
-
-Generated code
+## Generated code
 *   `app.py`: The main Flask application logic.
 *   `requirements.txt`: Lists Python dependencies.
 *   `templates/`: Directory containing the HTML templates for each authentication level and the success page. *(Note: The HTML files are not provided in this `app.py` snippet but are necessary for the application to function.)*
