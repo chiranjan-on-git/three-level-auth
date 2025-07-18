@@ -3,7 +3,7 @@
 This project demonstrates a basic multi-stage authentication system built with Flask. Users must successfully navigate through three distinct authentication levels to gain access to a final "success" page.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0c21e724-630f-4c75-9d7c-494477b3403c" width="600" alt="image"/>
+  <img src="https://github.com/user-attachments/assets/0c21e724-630f-4c75-9d7c-494477b3403c" width="450" alt="image"/>
 </p>
 
 ## Project Overview
